@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-37e347744535be80b91df457f70b9ec467d851d6.jar"
+        jar="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/build/intermediates/pre-dexed/debug/classes-233b7f3b29f1a8579108302ef49e78ea8093988c.jar"
+        jar="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34"/>
+    <item
+        dex="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/build/intermediates/pre-dexed/debug/classes-527b45273ba19efbc986960d3c3fbc32ff772d9b.jar"
+        jar="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-d021dd1f5506b394814f8f2245c3b8142b3252a0.jar"
+        jar="/Users/linma9/dev/eclipse/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+
+</pre-dex-items>

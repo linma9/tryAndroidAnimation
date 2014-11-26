@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@android:color/holo_orange_dark">
+    <!--mask defines the bounds for the ripple animation-->
+    <item android:id="@android:id/mask">
+        <shape android:shape="rectangle">
+            <stroke
+                android:color="?android:colorAccent"
+                android:width="1dp" />
+            <solid android:color="@android:color/holo_blue_light" />
+        </shape>
+
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <stroke
+                android:color="#ffffffff"
+                android:width="0.5dp" />
+            <solid android:color="#ffffffff" />
+        </shape>
+
+    </item>
+</ripple>
+
+    <!--
+    <ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?android:colorControlHighlight">
+    <item>
+    <shape android:shape="rectangle">
+    <stroke
+    android:color="?android:colorAccent"
+    android:width="1dp" />
+    </shape>
+    </item>
+    </ripple>
+        --><!-- From: file:/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/ripple.xml -->
