@@ -2,16 +2,16 @@
 <merger version="2" >
 
     <dataSet config="21.0.0" >
-        <source path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/assets" />
+        <source path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/assets" />
     </dataSet>
     <dataSet config="21.0.0" >
-        <source path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/assets" />
+        <source path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/assets" />
     </dataSet>
     <dataSet config="main" >
-        <source path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/assets" />
+        <source path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/debug/assets" />
+        <source path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/debug/assets" />
     </dataSet>
 
 </merger>

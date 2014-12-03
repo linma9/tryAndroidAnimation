@@ -19,4 +19,4 @@
             android:valueTo="@dimen/button_elevation"
             android:valueType="floatType" />
     </item>
-</selector><!-- From: file:/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/anim/anim.xml -->
+</selector><!-- From: file:/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/anim/anim.xml -->

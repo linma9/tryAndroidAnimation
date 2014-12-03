@@ -3,4 +3,4 @@
     android:shape="rectangle">
     <solid android:color="#88ffffff" />
     <corners android:radius="88dp" />
-</shape><!-- From: file:/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/cardview_background.xml -->
+</shape><!-- From: file:/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/cardview_background.xml -->

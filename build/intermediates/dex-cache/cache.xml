@@ -25,5 +25,23 @@
         jumboMode="false"
         revision="21.0.1"
         sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+    <item
+        dex="/Users/linma9/dev/test/t3/tryandroidanimation/Application/build/intermediates/pre-dexed/debug/classes-bea9a40150cc92b65ff1ae4e24884ddca66eb115.jar"
+        jar="/Users/linma9/dev/test/t3/tryandroidanimation/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/Users/linma9/dev/test/t3/tryandroidanimation/Application/build/intermediates/pre-dexed/debug/classes-e658dd9c9a1c959a4d9af4ff5106a981d5870d1d.jar"
+        jar="/Users/linma9/dev/test/t3/tryandroidanimation/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34"/>
+    <item
+        dex="/Users/linma9/dev/test/t3/tryandroidanimation/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-0c8f72f87626c6b89bee80e93b118680ce3d1930.jar"
+        jar="/Users/linma9/dev/test/t3/tryandroidanimation/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
 
 </pre-dex-items>

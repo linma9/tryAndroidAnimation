@@ -265,22 +265,14 @@ containing a value of this type.
         public static final int logo2=0x7f02005f;
         public static final int logo3=0x7f020060;
         public static final int logo4=0x7f020061;
-        public static final int photo1=0x7f020062;
-        public static final int photo3=0x7f020063;
-        public static final int photo4=0x7f020064;
-        public static final int rate_star_big_on=0x7f020065;
-        public static final int rate_star_big_on_holo_light=0x7f020066;
-        public static final int ripple=0x7f020067;
-        public static final int ripple_blue=0x7f020068;
-        public static final int ripple_new=0x7f020069;
-        public static final int ripple_oval=0x7f02006a;
-        public static final int ripple_oval_transparent=0x7f02006b;
-        public static final int sample1=0x7f02006c;
-        public static final int sample2=0x7f02006d;
-        public static final int sample3=0x7f02006e;
-        public static final int sample4=0x7f02006f;
-        public static final int sample5=0x7f020070;
-        public static final int tile=0x7f020071;
+        public static final int rate_star_big_on=0x7f020062;
+        public static final int rate_star_big_on_holo_light=0x7f020063;
+        public static final int ripple=0x7f020064;
+        public static final int ripple_blue=0x7f020065;
+        public static final int ripple_new=0x7f020066;
+        public static final int ripple_oval=0x7f020067;
+        public static final int ripple_oval_transparent=0x7f020068;
+        public static final int tile=0x7f020069;
     }
     public static final class id {
         public static final int action_settings=0x7f0a0026;

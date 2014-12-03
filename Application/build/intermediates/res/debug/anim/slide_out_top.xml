@@ -2,4 +2,4 @@
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <alpha android:fromAlpha="1.0" android:toAlpha="0.0" android:duration="80" />
     <translate android:fromYDelta="0" android:toYDelta="-100%p" android:duration="150"/>
-</set><!-- From: file:/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/anim/slide_out_top.xml -->
+</set><!-- From: file:/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/anim/slide_out_top.xml -->

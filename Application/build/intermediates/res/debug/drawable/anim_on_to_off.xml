@@ -7,4 +7,4 @@
     <item
         android:drawable="@drawable/btn_check_buttonless_on"
         android:duration="500" />
-</animation-list><!-- From: file:/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/anim_on_to_off.xml -->
+</animation-list><!-- From: file:/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/anim_on_to_off.xml -->

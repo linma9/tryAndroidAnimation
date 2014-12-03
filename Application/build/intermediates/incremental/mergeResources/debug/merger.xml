@@ -2,12 +2,12 @@
 <merger version="2" >
 
     <dataSet config="21.0.0" >
-        <source path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/res" />
+        <source path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/res" />
     </dataSet>
     <dataSet config="21.0.0" >
-        <source path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/res" >
+        <source path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/res" >
             <file
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/res/values/values.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/res/values/values.xml"
                 qualifiers="" >
                 <declare-styleable name="CardView" >
 
@@ -114,689 +114,649 @@ true
         </source>
     </dataSet>
     <dataSet config="main" >
-        <source path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res" >
+        <source path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res" >
             <file
                 name="anim"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/anim/anim.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/anim/anim.xml"
                 qualifiers=""
                 type="anim" />
             <file
                 name="rotate_anim"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/anim/rotate_anim.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/anim/rotate_anim.xml"
                 qualifiers=""
                 type="anim" />
             <file
                 name="scale_anim"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/anim/scale_anim.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/anim/scale_anim.xml"
                 qualifiers=""
                 type="anim" />
             <file
                 name="slide_down"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/anim/slide_down.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/anim/slide_down.xml"
                 qualifiers=""
                 type="anim" />
             <file
                 name="slide_in_top"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/anim/slide_in_top.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/anim/slide_in_top.xml"
                 qualifiers=""
                 type="anim" />
             <file
                 name="slide_out_top"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/anim/slide_out_top.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/anim/slide_out_top.xml"
                 qualifiers=""
                 type="anim" />
             <file
                 name="slide_up"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/anim/slide_up.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/anim/slide_up.xml"
                 qualifiers=""
                 type="anim" />
             <file
                 name="anim_off_to_on"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/anim_off_to_on.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/anim_off_to_on.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="anim_on_to_off"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/anim_on_to_off.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/anim_on_to_off.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="cardview_background"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/cardview_background.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/cardview_background.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="fab"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/fab.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/fab.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="icon_anim"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/icon_anim.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/icon_anim.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="image1"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/image1.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/image1.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="img1"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/img1.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/img1.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="img10"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/img10.jpeg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/img10.jpeg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="img11"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/img11.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/img11.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="img12"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/img12.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/img12.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="img13"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/img13.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/img13.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="img14"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/img14.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/img14.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="img15"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/img15.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/img15.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="img2"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/img2.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/img2.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="img3"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/img3.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/img3.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="img4"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/img4.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/img4.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="img5"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/img5.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/img5.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="img6"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/img6.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/img6.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="img7"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/img7.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/img7.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="img8"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/img8.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/img8.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="img9"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/img9.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/img9.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="logo"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/logo.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/logo.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="logo1"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/logo1.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/logo1.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="logo2"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/logo2.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/logo2.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="logo3"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/logo3.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/logo3.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="logo4"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/logo4.png"
-                qualifiers=""
-                type="drawable" />
-            <file
-                name="photo1"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/photo1.jpg"
-                qualifiers=""
-                type="drawable" />
-            <file
-                name="photo3"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/photo3.jpg"
-                qualifiers=""
-                type="drawable" />
-            <file
-                name="photo4"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/photo4.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/logo4.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="ripple"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/ripple.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/ripple.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="ripple_blue"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/ripple_blue.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/ripple_blue.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="ripple_new"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/ripple_new.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/ripple_new.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="ripple_oval"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/ripple_oval.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/ripple_oval.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="ripple_oval_transparent"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable/ripple_oval_transparent.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable/ripple_oval_transparent.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_navigation_accept"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-hdpi/ic_navigation_accept.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-hdpi/ic_navigation_accept.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="icon_folder_pink"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-hdpi/icon_folder_pink.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-hdpi/icon_folder_pink.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="tile"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-hdpi/tile.9.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-hdpi/tile.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="aol"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/aol.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-mdpi/aol.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="apptheme_list_activated_holo"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/apptheme_list_activated_holo.9.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-mdpi/apptheme_list_activated_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="btn_check_buttonless_off"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/btn_check_buttonless_off.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-mdpi/btn_check_buttonless_off.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="btn_check_buttonless_on"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/btn_check_buttonless_on.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-mdpi/btn_check_buttonless_on.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="geartouch"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/geartouch.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-mdpi/geartouch.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_navigation_accept"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/ic_navigation_accept.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-mdpi/ic_navigation_accept.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="icon_archive_pink"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/icon_archive_pink.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-mdpi/icon_archive_pink.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="icon_folder_pink"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/icon_folder_pink.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-mdpi/icon_folder_pink.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="icon_star_on"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/icon_star_on.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-mdpi/icon_star_on.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="image1"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/image1.jpg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-mdpi/image1.jpg"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="rate_star_big_on"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/rate_star_big_on.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-mdpi/rate_star_big_on.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="rate_star_big_on_holo_light"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/rate_star_big_on_holo_light.png"
-                qualifiers="mdpi-v4"
-                type="drawable" />
-            <file
-                name="sample1"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/sample1.jpeg"
-                qualifiers="mdpi-v4"
-                type="drawable" />
-            <file
-                name="sample2"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/sample2.jpeg"
-                qualifiers="mdpi-v4"
-                type="drawable" />
-            <file
-                name="sample3"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/sample3.jpeg"
-                qualifiers="mdpi-v4"
-                type="drawable" />
-            <file
-                name="sample4"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/sample4.jpeg"
-                qualifiers="mdpi-v4"
-                type="drawable" />
-            <file
-                name="sample5"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-mdpi/sample5.jpeg"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-mdpi/rate_star_big_on_holo_light.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_navigation_accept"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xhdpi/ic_navigation_accept.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xhdpi/ic_navigation_accept.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_done_anim_000"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_000.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_000.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_001"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_001.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_001.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_002"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_002.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_002.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_003"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_003.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_003.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_004"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_004.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_004.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_005"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_005.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_005.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_006"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_006.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_006.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_007"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_007.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_007.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_008"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_008.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_008.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_009"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_009.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_009.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_010"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_010.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_010.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_011"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_011.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_011.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_012"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_012.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_012.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_013"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_013.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_013.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_014"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_014.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_014.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_015"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_015.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_015.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_016"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_016.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_016.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_017"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_017.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_017.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_018"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_018.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_018.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_019"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_019.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_019.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_020"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_020.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_020.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_021"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_021.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_021.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_022"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_022.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_022.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_023"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_023.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_023.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_024"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_024.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_024.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_025"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_025.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_025.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_026"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_026.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_026.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_027"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_027.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_027.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_028"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_028.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_028.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_029"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_029.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_029.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_done_anim_030"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_030.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_done_anim_030.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_000"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_000.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_000.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_001"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_001.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_001.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_002"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_002.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_002.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_003"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_003.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_003.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_004"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_004.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_004.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_005"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_005.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_005.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_006"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_006.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_006.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_007"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_007.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_007.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_008"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_008.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_008.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_009"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_009.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_009.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_010"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_010.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_010.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_011"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_011.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_011.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_012"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_012.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_012.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_013"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_013.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_013.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_014"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_014.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_014.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_015"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_015.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_015.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_016"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_016.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_016.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_017"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_017.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_017.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_018"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_018.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_018.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_019"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_019.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_019.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_020"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_020.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_020.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_021"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_021.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_021.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_022"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_022.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_022.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_023"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_023.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_023.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_024"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_024.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_024.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_025"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_025.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_025.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_026"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_026.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_026.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_027"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_027.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_027.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_028"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_028.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_028.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_029"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_029.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_029.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="ic_plus_anim_030"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_030.png"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/drawable-xxhdpi-v21/ic_plus_anim_030.png"
                 qualifiers="xxhdpi-v21"
                 type="drawable" />
             <file
                 name="activity_logo"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/layout/activity_logo.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/layout/activity_logo.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_main_view"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/layout/activity_main_view.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/layout/activity_main_view.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_scene_transition"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/layout/activity_scene_transition.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/layout/activity_scene_transition.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_logo"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/layout/fragment_logo.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/layout/fragment_logo.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_main_view"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/layout/fragment_main_view.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/layout/fragment_main_view.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_scene_transition"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/layout/fragment_scene_transition.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/layout/fragment_scene_transition.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="logo"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/menu/logo.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/menu/logo.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 name="scene_transition"
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/menu/scene_transition.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/menu/scene_transition.xml"
                 qualifiers=""
                 type="menu" />
             <file
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/values/base-strings.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/values/base-strings.xml"
                 qualifiers="" >
                 <string name="intro_message" >
 <![CDATA[
@@ -812,7 +772,7 @@ true
                 </string>
             </file>
             <file
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/values/colors.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/values/colors.xml"
                 qualifiers="" >
                 <color name="green" >#FF80D080
                 </color>
@@ -824,7 +784,7 @@ true
                 </color>
             </file>
             <file
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/values/dimens.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/values/dimens.xml"
                 qualifiers="" >
                 <dimen name="button_press_elevation" >4dp
                 </dimen>
@@ -846,7 +806,7 @@ true
                 </dimen>
             </file>
             <file
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/values/strings.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="title_activity_card_view" >AnimationTestActivity
                 </string>
@@ -872,7 +832,7 @@ true
                 </string>
             </file>
             <file
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/values/styles.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/values/styles.xml"
                 qualifiers="" >
 
                 <style
@@ -881,7 +841,7 @@ true
                 </style>
             </file>
             <file
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/values/template-dimens.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/values/template-dimens.xml"
                 qualifiers="" >
                 <dimen name="margin_small" >8dp
                 </dimen>
@@ -899,7 +859,7 @@ true
                 </dimen>
             </file>
             <file
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/values/template-styles.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/values/template-styles.xml"
                 qualifiers="" >
 
                 <style
@@ -941,7 +901,7 @@ true
                 </style>
             </file>
             <file
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/values-sw600dp/template-dimens.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/values-sw600dp/template-dimens.xml"
                 qualifiers="sw600dp-v13" >
                 <dimen name="vertical_page_margin" >@dimen/margin_medium
                 </dimen>
@@ -949,7 +909,7 @@ true
                 </dimen>
             </file>
             <file
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/values-sw600dp/template-styles.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/values-sw600dp/template-styles.xml"
                 qualifiers="sw600dp-v13" >
 
                 <style name="Widget.SampleMessage" >
@@ -965,7 +925,7 @@ true
                 </style>
             </file>
             <file
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/values-v11/template-styles.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/values-v11/template-styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -973,7 +933,7 @@ true
                     parent="android:Theme.Holo.Light" />
             </file>
             <file
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/values-v21/template-styles.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/values-v21/template-styles.xml"
                 qualifiers="v21" >
 
                 <style
@@ -981,19 +941,19 @@ true
                     parent="android:Theme.Material.Light" />
             </file>
             <file
-                path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/main/res/values-w820dp/dimens.xml"
+                path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/main/res/values-w820dp/dimens.xml"
                 qualifiers="w820dp-v13" >
                 <dimen name="activity_horizontal_margin" >64dp
                 </dimen>
             </file>
         </source>
-        <source path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/common/res" />
-        <source path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/template/res" />
-        <source path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/build/generated/res/rs/debug" />
-        <source path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/build/generated/res/generated/debug" />
+        <source path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/common/res" />
+        <source path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/template/res" />
+        <source path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/build/generated/res/rs/debug" />
+        <source path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/build/generated/res/generated/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/linma9/AndroidStudioProjects/TryAnimation/Application/src/debug/res" />
+        <source path="/Users/linma9/dev/test/t3/tryandroidanimation/Application/src/debug/res" />
     </dataSet>
 
 </merger>
