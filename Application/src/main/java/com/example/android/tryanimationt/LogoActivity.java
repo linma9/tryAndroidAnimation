@@ -245,33 +245,26 @@ public class LogoActivity extends Activity {
 
         void fadeInNextLogo(final int fadeInIndex, final int delay, final int duration) {
 
-            int fadeOutIndex = ((fadeInIndex - 1) >= 0) ? (fadeInIndex - 1) : 4;
-            final ImageView fadInLogo = logoArr[fadeInIndex];
-            final ImageView fadOutLogo = logoArr[fadeOutIndex];
-
-            final int nextFadeInIndex = (fadeInIndex + 1) % 5;
-
-            final ViewPropertyAnimator animator = fadInLogo.animate();
-            animator.setUpdateListener(new ValueAnimator.AnimatorUpdateListener() {
+            logoArr[fadeInIndex].animate().setUpdateListener(new ValueAnimator.AnimatorUpdateListener() {
                 @Override
                 public void onAnimationUpdate(ValueAnimator animation) {
-                    long playedTime = animation.getCurrentPlayTime();
-                    if (playedTime >= delay) {
-                        animator.setUpdateListener(null);
-                        fadeInNextLogo(nextFadeInIndex, delay, duration);
+                    //long playedTime = animation.getCurrentPlayTime();
+                    if (animation.getCurrentPlayTime() >= delay) {
+                        logoArr[fadeInIndex].animate().setUpdateListener(null);
+                        fadeInNextLogo(((fadeInIndex + 1) % 5), delay, duration);
 
                     }
                 }
             });
 
-            animator.alpha(1f)
+            logoArr[fadeInIndex].animate().alpha(1f)
                     .setDuration(duration)
                     .setListener(new AnimatorListenerAdapter() {// alternative .withEndAction(new Runnable() {}, which keeps view not to be recycled, YouTube: https://www.youtube.com/watch?v=8MIfSxgsHIs
                         @Override
                         public void onAnimationEnd(Animator animation) {
-                            animator.setListener(null);
-                            if (fadOutLogo != null) {
-                                fadOutLogo.setAlpha(0f);
+                            logoArr[fadeInIndex].animate().setListener(null);
+                            if (logoArr[(((fadeInIndex - 1) >= 0) ? (fadeInIndex - 1) : 4)] != null) {
+                                logoArr[(((fadeInIndex - 1) >= 0) ? (fadeInIndex - 1) : 4)].setAlpha(0f);
                             }
                         }
                     });
